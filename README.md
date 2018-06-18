@@ -22,21 +22,21 @@ Les coefficients de l’équation, représentant le prix « moyen » de chaque c
 
 | Composants | Prix Moyen | Unité |
 | ---------- | ---------- | ----- |
-| Windows 10 Home |	69 |	€ |
-| DDR4-SDRAM |	89 |	€ |
-| Full HD	| 24 |	€ |
+| Windows 10 Home |	69 | € |
+| DDR4-SDRAM | 89 |	€ |
+| Full HD	| 24 | € |
 | QHD+	| 465 |	€ |
-| Stockage Combiné HDD+SSD |	70 |	€ |
-| Stockage de type SSD |	84 |	€ |
-| Processeur de type N4200 |	97 |	€ |
-| Processeur de type i5-7200U |	64 |	€ |
-| Capacité totale de stockage |	0,13 |	€/Go |
+| Stockage Combiné HDD+SSD | 70 |	€ |
+| Stockage de type SSD | 84 |	€ |
+| Processeur de type N4200 | 97 |	€ |
+| Processeur de type i5-7200U |	64 | € |
+| Capacité totale de stockage |	0,13 | €/Go |
 | Capacité de la batterie |	1,8 |	€/Wh |
-| Cache du processeur	| 51 |	€/Mo |
-| Mémoire interne RAM |	36 |	€/Go |
+| Cache du processeur	| 51 | €/Mo |
+| Mémoire interne RAM |	36 | €/Go |
 | Quantité de ports de type A USB 3	| 56 | €/Port |
 | Nombre maximum de voies PCI Express |	10 | €/Voie |
-| Ecran tactile|	4 |	€ |
+| Ecran tactile | 4 |	€ |
 | Bus système |	2,4 |	€/Gts |
 
 Le graphique suivant montre les prix estimés selon l’algorithme, pour les comparer avec les prix réels observés sur le site d’e-commerce. Les chiffres en abscisse correspondent au numéro d’identification des ordinateurs, classés par ordre de prix croissant.

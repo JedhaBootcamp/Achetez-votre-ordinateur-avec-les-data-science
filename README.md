@@ -20,9 +20,9 @@ Le jeu de donnée est préparé informatiquement, afin qu’on puisse lui appliq
 
 Les coefficients de l’équation, représentant le prix « moyen » de chaque composant ou caractéristique, sont présentés dans le tableau suivant :
 
-| Composants | Prix Moyen | Unité |
-| ---------- | ---------- | ----- |
 
+| Composants | Prix Moyen | Unité |
+| ---------- | ---------- | -----|
 | Windows 10 Home |	69 | € |
 | DDR4-SDRAM | 89 |	€ |
 | Full HD	| 24 | € |

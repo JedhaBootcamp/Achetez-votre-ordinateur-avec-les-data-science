@@ -22,6 +22,7 @@ Les coefficients de l’équation, représentant le prix « moyen » de chaque c
 
 | Composants | Prix Moyen | Unité |
 | ---------- | ---------- | ----- |
+
 | Windows 10 Home |	69 | € |
 | DDR4-SDRAM | 89 |	€ |
 | Full HD	| 24 | € |
